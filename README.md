@@ -1,9 +1,57 @@
-# week-8-new-portfolio
+# Updated-portfolio
 ![Getting Started](./assets/pictures/Portfolio-screenshot.png)
 ![Getting Started](./assets/pictures/contact-page-screenshot.png)
 ![Getting Started](./assets/pictures/about-me-page-screenshot.png)
 
 
-## Description/about this project
-The objective of this homework was to create a responsive portfolio with links to my github, linkedIn, and resume.
-This project was focused on using the knowledge I have gained over the past few weeks to polish my portfolio and include recent works.  This project allows potential employers to view information about me and what I have coded in one easily manageable webpage.  I learned how to properly link images into a README as well as how to place .png's into my code so that it redirects to a download.  
+## Description
+This application is an updated version of my portfolio.  It includes links to both projects as well as other notable works.  Along with this it also has been updated with my new resume, updated linkedin, and github.
+
+ ## Table of contents
+
+-[Installation](#installation)
+
+-[Usage](#usage)
+
+-[License](#license)
+
+-[Contributing](#contributing)
+
+-[Tests](#tests)
+
+-[Questions](#questions)
+
+## Installation
+
+In order to run this script you have to have the following things downloaded using npm i.
+```
+N/A
+```
+
+## Usage
+
+This application is web based and as such can only be used to view the code I have written.
+## License
+
+N/A
+
+
+## Contributing
+Contributing to this file is not yet available as it is a personal homework project.  Check back in the future for other projects to contribute on.
+
+## Tests
+
+To run tests, run the following command:
+
+```
+N/A
+```
+
+## Questions
+
+### Github:
+github.com/GreysonMainor
+
+### Email:
+gbmainor98@outlook.com
+  
